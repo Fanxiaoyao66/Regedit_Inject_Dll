@@ -14,6 +14,6 @@ regedit注册表路径：
 
 这张的注册表路径错了，后面改对了也不行。
 
-![Load](./load.png)
+![Load](load.png)
 
 推测应该时Use32.dll没加载这个Dll，win10的问题，win7暂时没试
